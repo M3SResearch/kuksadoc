@@ -1,37 +1,48 @@
-## Welcome to GitHub Pages
+# kuksadoc
+This repository will host the Kuksa Documents
 
-You can use the [editor on GitHub](https://github.com/M3SResearch/kuksaDoc/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Here is a draft of the topics for Kuksa training materials / documentation. The goal is to provide an overview of Kuksa, its architecture and its infrastructure. If you have pointers to materials or plan to create materials that cover any of these sections, please add your name and a link/brief description.
 
-### Markdown
+Updates and comments are welcome! Some of the topics could not be fillded up. If you can contribute to the missing topics, please do not hesitate to contribute.  
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Check the the link: https://github.com/arunktym/kuksaDocumentation/blob/kuksaIDE/kuksaIde/externalTraining/MdFiles/DraftVersion.md 
+# Kuksa App IDE
 
-```markdown
-Syntax highlighted code block
+    • Getting Started with the App IDE 
+        ◦ Required System Configuration 
+        ◦ How to set up the IDE 
+        ◦ Writing your first Kuksa In-Vehicle App (under development)
+        ◦ Writing your first Kuksa Cloud App (under development)
+        ◦ Testing your Apps 
+        ◦ Deploying your apps 
+        ◦ Install your In-Vehicle App in your car (see In-Vehicle platform Getting Started) 
+        ◦ Install your Cloud App in your Cloud (see Cloud platform Getting Started)
+    • Some Kuksa App examples
 
-# Header 1
-## Header 2
-### Header 3
+# Kuksa In-Vehicle platform
 
-- Bulleted
-- List
+    • Getting started with the In-Vehicle platform 
+        ◦ Required System Configuration (HW/SW) 
+        ◦ Set up the platform 
+            ▪ using a RPi 
+            ▪ using XXX?
+        ◦ Connect the platform to a Kuksa portal 
+        ◦ Search for an In-Vehicle App 
+        ◦ Install an In-Vehicle App 
+        ◦ Test the In-Vehicle App
+    • Configure the In-Vehicle platform 
+    • Overview of the In-Vehicle platform and its architecture 
+    • Overview of the Kuksa In-Vehicle API
 
-1. Numbered
-2. List
+# Kuksa Cloud Platform
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/M3SResearch/kuksaDoc/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+    • Getting started with the Cloud platform 
+        ◦ Required System Configuration 
+        ◦ Installing and testing the Cloud platform 
+        ◦ Installing a Cloud App and its In-Vehicle App 
+        ◦ Testing the Cloud App
+    • Configuring the Cloud platform 
+    • Overview of the Cloud platform and its architecture 
+    • Overview of the Kuksa Cloud API 
+    • Marketplace presentation and features
