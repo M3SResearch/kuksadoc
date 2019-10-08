@@ -1,10 +1,10 @@
-1.  [Kuksa App IDE](./DraftVersion2.md#kuksa-app-ide)   
+1.  [Kuksa App IDE](./DraftVersion_02.md#kuksa-app-ide)   
 
-1.1. [Getting Started with the App IDE](./DraftVersion2.md#getting-started-with-the-app-ide)
+1.1. [Getting Started with the App IDE](./DraftVersion_o2.md#getting-started-with-the-app-ide)
 
-1.1.1. [Required System Configuration](./DraftVersion2.md#requirement-system-configuration)
+1.1.1. [Required System Configuration](./DraftVersion_02.md#requirement-system-configuration)
 
-1.1.2. [How to set up the IDE](./DraftVersion2.md#how-to-setup-the-ide)
+1.1.2. [How to set up the IDE](./DraftVersion_02.md#how-to-setup-the-ide)
 
 1.1.3. [Writing your first Kuksa In-Vehicle App]()
 
