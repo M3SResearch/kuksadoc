@@ -1,4 +1,4 @@
-# Kuksa App IDE
+# [Kuksa App IDE](./DraftVersion_0.2.md#kuksa-app-ide)
 ## Getting Started with the App IDE
 ### Required System Configuration
 ### How to set up the IDE
